@@ -19,8 +19,8 @@
 |第5週|10/2|中秋連假(9/26補行本周課程)|中秋連假|||
 |第6週|10/9|國慶日|國慶日|||
 |第7週|10/16|Python容器型別|介紹陣列、元組與字典的資料型別|無|[連結](https://github.com/ai4kids-tw/DongShan-Taipei-AI-1091/tree/master/Week%207%20Python%E5%AE%B9%E5%99%A8%E5%9E%8B%E5%88%A5)|
-|第8週|10/23|Python的隨機數與日期時間處理|介紹如何使用Python的隨機數與日期時間|||
-|第9週|10/30|Python資料分析與資料視覺化|使用Pandas與Matplotlib來進行資料分析與視覺化|||
+|第8週|10/23|Python的隨機數與日期時間處理|介紹如何使用Python的隨機數與日期時間|無|[連結](https://github.com/ai4kids-tw/DongShan-Taipei-AI-1091/tree/master/Week8)|
+|第9週|10/30|Python資料分析與資料視覺化|使用Pandas與Matplotlib來進行資料分析與視覺化|無|[連結](https://github.com/ai4kids-tw/DongShan-Taipei-AI-1091/tree/master/Week9)|
 |第10週|11/6|人工智慧初體驗|AI 科普認知講述，深入淺出方式引發學習興趣|||
 |第11週|11/13|監督式學習|監督式學習介紹-用決策樹來預測鐵達尼號乘客生存機率|||
 |第12週|11/20|非監督式學習|非監督式學習模型介紹-用KNN來辨識鳶尾花品種|||
