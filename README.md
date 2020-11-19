@@ -22,7 +22,7 @@
 |第9週|10/30|Python資料分析與資料視覺化|使用Pandas與Matplotlib來進行資料分析與視覺化|無|[連結](https://github.com/ai4kids-tw/DongShan-Taipei-AI-1091/tree/master/Week9)|
 |第10週|11/6|人工智慧初體驗|AI 科普認知講述，深入淺出方式引發學習興趣|[線上學習網站](https://ai4kids.ai/)|[線上學習網站](https://ai4kids.ai/)|
 |第11週|11/13|監督式學習|監督式學習介紹-用決策樹來預測鐵達尼號乘客生存機率|[線上學習網站](https://ai4kids.ai/)|[線上學習網站](https://ai4kids.ai/)|
-|第12週|11/20|監督式學習|監督式學習介紹-用線性迴歸來預測房價|[線上學習網站](https://ai4kids.ai/)|[線上學習網站](https://ai4kids.ai/)|
+|第12週|11/20|監督式學習|監督式學習介紹-用線性迴歸來預測房價<br />非監督式學習介紹-鳶尾花的分群—K-means|[線上學習網站](https://ai4kids.ai/)|[線上學習網站](https://ai4kids.ai/)|
 |第13週|11/27|深度學習-電腦視覺|由無程式碼的Teachable Machine來說明深度學習原理|[線上學習網站](https://ai4kids.ai/)|[線上學習網站](https://ai4kids.ai/)|
 |第14週|12/4|實作剪刀石頭布猜拳辨識|動手實作深度學習辨識剪刀石頭布猜拳手勢|[線上學習網站](https://ai4kids.ai/)|[線上學習網站](https://ai4kids.ai/)|
 |第15週|12/11|深度學習-電腦視覺|透過貓狗辨識的實作範例來了解電腦視覺的運作|[線上學習網站](https://ai4kids.ai/)|[線上學習網站](https://ai4kids.ai/)|
